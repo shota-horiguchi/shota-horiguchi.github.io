@@ -76,6 +76,7 @@
       year: 2024
       items:
         - For the paper entitled "Recursive Attentive Pooling for Extracting Speaker Embeddings from Multi-Speaker Recordings"
+        - <a href="../assets/pdf/IEEE_SLT_2024_Honorable_Mention_Award.pdf">Award certificate</a>
     - title: 2nd prize in <a href="https://www.chimechallenge.org/current/task1/index">The 8th CHiME Speech Separation and Recognition Challenge (CHiME-8) Task 1</a>
       year: 2024
       items:
@@ -127,7 +128,7 @@
     - title: Session chair
       items: 
         - IEEE ICASSP (2022)
-        - ASJ Annual Meeting (2024)
+        - ASJ Annual Meeting (2024-)
     - title: Review experience
       subcontents:
         - title: Journal
@@ -147,10 +148,10 @@
         - title: Conference
           items:
           - ICASSP (2019-2025)
-          - INTERSPEECH (2024)
+          - INTERSPEECH (2024-2025)
           - ASRU (2023)
-          - EUSIPCO (2021-2023)
           - SLT (2022,2024)
+          - EUSIPCO (2021-2023)
           - WASPAA (2023)
           - DCASE (2020-2021, 2023-2024)
           - MLSP (2021, 2023)
@@ -158,6 +159,7 @@
           - APSIPA ASC (2021)
           - RO-MAN (2022)
           - ICML (2020)
+          - ACMMM (2025)
 
 - title: Internship Supervision
   type: list
