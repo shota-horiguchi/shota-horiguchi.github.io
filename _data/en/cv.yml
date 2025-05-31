@@ -121,11 +121,12 @@
   - Institute of Electrical and Electronics Engineers (IEEE)
   - IEEE Signal Processing Society (SPS)
   - "Acoustical Society of Japan (ASJ): No. 22704"
+  - Information Processing Society of Japan (IPSJ)
 
 - title: Academic Services
   type: double_nested_list
   contents:
-    - title: Session chair
+    - title: Session chair / vice chair
       items: 
         - IEEE ICASSP (2022, 2025)
         - ASJ Annual Meeting (2024-)
@@ -154,10 +155,10 @@
           items:
           - ICASSP (2019-2025)
           - INTERSPEECH (2024-2025)
-          - ASRU (2023)
+          - ASRU (2023, 2025)
           - SLT (2022,2024)
           - EUSIPCO (2021-2023)
-          - WASPAA (2023)
+          - WASPAA (2023, 2025)
           - DCASE (2020-2021, 2023-2024)
           - MLSP (2021, 2023)
           - MMSP (2023)
