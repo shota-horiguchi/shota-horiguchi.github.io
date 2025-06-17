@@ -77,10 +77,13 @@
       items:
         - 主著論文「Recursive Attentive Pooling for Extracting Speaker Embeddings from Multi-Speaker Recordings」に対して
         - <a href="../assets/pdf/IEEE_SLT_2024_Honorable_Mention_Award.pdf">賞状</a>
-    - title: <a href="https://www.chimechallenge.org/current/task1/index">The 8th CHiME Speech Separation and Recognition Challenge (CHiME-8) Task 1</a> 2位
+    - title: <a href="https://www.chimechallenge.org/challenges/chime8/task1/index">The 8th CHiME Speech Separation and Recognition Challenge (CHiME-8) Task 1</a> 2位
       year: 2024
       items:
         - NTTチームとして
+        - <a href="https://www.isca-archive.org/chime_2024/kamo24_chime.html">テクニカルレポート</a>
+        - <a href="https://www.chimechallenge.org/workshops/chime2024/papers/11_slides.pdf">スライド</a>
+        - <a href="https://www.chimechallenge.org/workshops/chime2024/papers/11_poster.pdf">ポスター</a>
         - 多話者音声のシミュレーションとEEND-VCの事前学習を担当
     - title: <a href="https://acoustics.jp/awards/itakura/">日本音響学会 独創研究奨励賞 板倉記念</a>
       year: 2023
@@ -130,11 +133,11 @@
       items: 
         - IEEE ICASSP (2022, 2025)
         - 日本音響学会 研究発表会 (2024秋, 2025春)
-    - title: 幹事
+    - title: 学会委員
       items:
-        - 電子情報通信学会 音声研究会 (2025.4-)
-        - 情報処理学会 音声言語情報処理研究会 (2025.4-)
-        - 日本音響学会 音声研究会 (2025.4-)
+        - 情報処理学会 音声言語情報処理研究会 幹事 (2025.4-)
+        - 日本音響学会 音声研究会 幹事 (2025.4-)
+        - 電子情報通信学会 音声研究専門委員会 専門委員 (2025.6-)
     - title: 査読
       subcontents:
         - title: 論文誌
@@ -156,7 +159,7 @@
           - ICASSP (2019-2025)
           - INTERSPEECH (2024-2025)
           - ASRU (2023, 2025)
-          - SLT (2022,2024)
+          - SLT (2022, 2024)
           - EUSIPCO (2021-2023)
           - WASPAA (2023, 2025)
           - DCASE (2020-2021, 2023-2024)

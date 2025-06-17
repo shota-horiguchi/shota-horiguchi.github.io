@@ -77,10 +77,13 @@
       items:
         - For the paper entitled "Recursive Attentive Pooling for Extracting Speaker Embeddings from Multi-Speaker Recordings"
         - <a href="../assets/pdf/IEEE_SLT_2024_Honorable_Mention_Award.pdf">Award certificate</a>
-    - title: 2nd prize in <a href="https://www.chimechallenge.org/current/task1/index">The 8th CHiME Speech Separation and Recognition Challenge (CHiME-8) Task 1</a>
+    - title: 2nd prize in <a href="https://www.chimechallenge.org/challenges/chime8/task1/index">The 8th CHiME Speech Separation and Recognition Challenge (CHiME-8) Task 1</a>
       year: 2024
       items:
         - As the NTT team
+        - <a href="https://www.isca-archive.org/chime_2024/kamo24_chime.html">Technical report</a>
+        - <a href="https://www.chimechallenge.org/workshops/chime2024/papers/11_slides.pdf">Slides</a>
+        - <a href="https://www.chimechallenge.org/workshops/chime2024/papers/11_poster.pdf">Poster</a>
         - In charge of preparation of simulated mixtures and pretraining of EEND-VC
     - title: <a href="https://acoustics.jp/awards/itakura/">Itakura Prize Innovative Young Researcher Award, The Acoustical Society of Japan</a>
       year: 2023
@@ -156,7 +159,7 @@
           - ICASSP (2019-2025)
           - INTERSPEECH (2024-2025)
           - ASRU (2023, 2025)
-          - SLT (2022,2024)
+          - SLT (2022, 2024)
           - EUSIPCO (2021-2023)
           - WASPAA (2023, 2025)
           - DCASE (2020-2021, 2023-2024)
