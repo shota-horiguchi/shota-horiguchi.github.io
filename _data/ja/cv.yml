@@ -36,7 +36,7 @@
   type: time_table
   contents:
     - title: Research Specialist
-      institution: 日本電信電話株式会社 NTT人間情報研究所
+      institution: NTT株式会社 (旧 日本電信電話株式会社) 人間情報研究所
       year: 2024.2 - 現在
       description:
         - title: 研究トピック
@@ -81,9 +81,7 @@
       year: 2024
       items:
         - NTTチームとして
-        - <a href="https://www.isca-archive.org/chime_2024/kamo24_chime.html">テクニカルレポート</a>
-        - <a href="https://www.chimechallenge.org/workshops/chime2024/papers/11_slides.pdf">スライド</a>
-        - <a href="https://www.chimechallenge.org/workshops/chime2024/papers/11_poster.pdf">ポスター</a>
+        - <a href="https://www.isca-archive.org/chime_2024/kamo24_chime.html">テクニカルレポート</a> / <a href="https://www.chimechallenge.org/workshops/chime2024/papers/11_slides.pdf">スライド</a> / <a href="https://www.chimechallenge.org/workshops/chime2024/papers/11_poster.pdf">ポスター</a>
         - 多話者音声のシミュレーションとEEND-VCの事前学習を担当
     - title: <a href="https://acoustics.jp/awards/itakura/">日本音響学会 独創研究奨励賞 板倉記念</a>
       year: 2023
@@ -93,13 +91,13 @@
       year: 2021
       items:
         - Hitachi-JHUチームとして
-        -  <a href="https://dihardchallenge.github.io/dihard3/system_descriptions/dihard3_system_description_team115.pdf">テクニカルレポート</a>
+        - <a href="https://dihardchallenge.github.io/dihard3/system_descriptions/dihard3_system_description_team115.pdf">テクニカルレポート</a> / <a href="https://dihardchallenge.github.io/dihard3workshop/slide/Hitachi-JHU%20System%20for%20the%20Third%20DIHARD%20Speech%20Diarization%20Challenge.pdf">スライド</a>
         - EEND-EDA，EEND as post-processing，システムアンサンブルを担当
     - title: <a href="https://www.chimechallenge.org/challenges/chime5/index">The 5th CHiME Speech Separation and Recognition Challenge (CHiME-5)</a> 2位
       year: 2018
       items:
         - Hitachi-JHUチームとして
-        - <a href="https://www.chimechallenge.org/workshops/chime2018/papers/CHiME_2018_paper_kanda.pdf">テクニカルレポート</a>
+        - <a href="https://www.chimechallenge.org/workshops/chime2018/papers/CHiME_2018_paper_kanda.pdf">テクニカルレポート</a> / <a href="https://www.chimechallenge.org/workshops/chime2018/presentations/CHiME_2018_Kanda_oral.pdf">スライド</a>
         - 音源分離とサーバー冷却🌬️を担当
     - title: <a href="https://docs.google.com/spreadsheets/d/1Ze0xvzf6k0cIzejshiHATuBQaQA7fEZIxNBiIeKTjdk/pubhtml?gid=0&single=true">映像情報メディア学会 優秀研究発表賞</a>
       year: 2017
@@ -132,12 +130,16 @@
     - title: 座長・副座長
       items: 
         - IEEE ICASSP (2022, 2025)
+        - ISCA Interspeech (2025)
         - 日本音響学会 研究発表会 (2024秋, 2025春)
     - title: 学会委員
       items:
         - 情報処理学会 音声言語情報処理研究会 幹事 (2025.4-)
         - 日本音響学会 音声研究会 幹事 (2025.4-)
         - 電子情報通信学会 音声研究専門委員会 専門委員 (2025.6-)
+    - title: オーガナイザ
+      items:
+        - The Joint Workshop on HSCMA and CHiME 2026 (ICASSP 2026併設ワークショップ)
     - title: 査読
       subcontents:
         - title: 論文誌
@@ -162,7 +164,7 @@
           - SLT (2022, 2024)
           - EUSIPCO (2021-2023)
           - WASPAA (2023, 2025)
-          - DCASE (2020-2021, 2023-2024)
+          - DCASE (2020-2021, 2023-2025)
           - MLSP (2021, 2023)
           - MMSP (2023)
           - APSIPA ASC (2021)

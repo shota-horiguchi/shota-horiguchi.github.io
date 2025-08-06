@@ -36,7 +36,7 @@
   type: time_table
   contents:
     - title: Research Specialist
-      institution: NTT Corporation, Human Informatics Laboratories
+      institution: NTT, Ltd. (formerly NTT Corporation), Human Informatics Laboratories
       year: 2024.2 - Present
       description:
         - title: Research topic
@@ -81,9 +81,7 @@
       year: 2024
       items:
         - As the NTT team
-        - <a href="https://www.isca-archive.org/chime_2024/kamo24_chime.html">Technical report</a>
-        - <a href="https://www.chimechallenge.org/workshops/chime2024/papers/11_slides.pdf">Slides</a>
-        - <a href="https://www.chimechallenge.org/workshops/chime2024/papers/11_poster.pdf">Poster</a>
+        - <a href="https://www.isca-archive.org/chime_2024/kamo24_chime.html">Technical report</a> / <a href="https://www.chimechallenge.org/workshops/chime2024/papers/11_slides.pdf">Slides</a> / <a href="https://www.chimechallenge.org/workshops/chime2024/papers/11_poster.pdf">Poster</a>
         - In charge of preparation of simulated mixtures and pretraining of EEND-VC
     - title: <a href="https://acoustics.jp/awards/itakura/">Itakura Prize Innovative Young Researcher Award, The Acoustical Society of Japan</a>
       year: 2023
@@ -93,13 +91,13 @@
       year: 2021
       items: 
         - As the Hitachi-JHU team
-        -  <a href="https://dihardchallenge.github.io/dihard3/system_descriptions/dihard3_system_description_team115.pdf">Technical report</a>
+        -  <a href="https://dihardchallenge.github.io/dihard3/system_descriptions/dihard3_system_description_team115.pdf">Technical report</a> / <a href="https://dihardchallenge.github.io/dihard3workshop/slide/Hitachi-JHU%20System%20for%20the%20Third%20DIHARD%20Speech%20Diarization%20Challenge.pdf">Slides</a>
         - In charge of EEND-EDA, EEND as post-processing, and system ensemble
     - title: 2nd prize in <a href="https://www.chimechallenge.org/challenges/chime5/index">The 5th CHiME Speech Separation and Recognition Challenge (CHiME-5)</a>
       year: 2018
       items:
         - As the Hitachi-JHU team
-        - <a href="https://www.chimechallenge.org/workshops/chime2018/papers/CHiME_2018_paper_kanda.pdf">Technical report</a>
+        - <a href="https://www.chimechallenge.org/workshops/chime2018/papers/CHiME_2018_paper_kanda.pdf">Technical report</a> / <a href="https://www.chimechallenge.org/workshops/chime2018/presentations/CHiME_2018_Kanda_oral.pdf">Slides</a>
         - In charge of speech separation and server cooling 🌬️
     - title: <a href="https://docs.google.com/spreadsheets/d/1Ze0xvzf6k0cIzejshiHATuBQaQA7fEZIxNBiIeKTjdk/pubhtml?gid=0&single=true">Outstanding Research Presentation Award, The Institute of Image Information and Television Engineers</a>
       year: 2017
@@ -132,12 +130,16 @@
     - title: Session chair / vice chair
       items: 
         - IEEE ICASSP (2022, 2025)
+        - ISCA Interspeech (2025)
         - ASJ Annual Meeting (2024-)
-    - title: Secretary
+    - title: Board member
       items:
         - IEICE Technical Committee on Speech (2025.4-)
         - IPSJ SIG-SLP (2025.4-)
         - ASJ-SP (2025.4-)
+    - title: Organization
+      items:
+        - The Joint Workshop on HSCMA and CHiME 2026 (a satellite workshop of ICASSP 2026)
     - title: Review experience
       subcontents:
         - title: Journal
@@ -162,7 +164,7 @@
           - SLT (2022, 2024)
           - EUSIPCO (2021-2023)
           - WASPAA (2023, 2025)
-          - DCASE (2020-2021, 2023-2024)
+          - DCASE (2020-2021, 2023-2025)
           - MLSP (2021, 2023)
           - MMSP (2023)
           - APSIPA ASC (2021)
