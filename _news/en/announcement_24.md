@@ -5,4 +5,4 @@ inline: true
 lang: en
 ---
 
-<a href="https://arxiv.org/abs/2507.09226">One first-authored paper</a>has been accepted to ASRU 2025.
+Our proposal for The Joint Workshop on HSCMA and CHiME 2026 has been accepted as a sattelite workshop of ICASSP 2026.

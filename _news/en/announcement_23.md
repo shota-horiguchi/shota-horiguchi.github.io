@@ -5,4 +5,4 @@ inline: true
 lang: en
 ---
 
-<a href="https://arxiv.org/abs/2507.09226">One first-authored paper</a>has been accepted to ASRU 2025.
+<a href="https://arxiv.org/abs/2507.09226">One first-authored paper</a> has been accepted to ASRU 2025.
