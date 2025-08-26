@@ -5,4 +5,4 @@ inline: true
 lang: en
 ---
 
-Our proposal for The Joint Workshop on HSCMA and CHiME 2026 has been accepted as a sattelite workshop of ICASSP 2026.
+Our proposal for The Joint Workshop on HSCMA and CHiME 2026 has been accepted as a satellite workshop of ICASSP 2026.
