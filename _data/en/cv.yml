@@ -134,13 +134,16 @@
         - ASJ Annual Meeting (2024-)
     - title: Board member
       items:
-        - IEICE Technical Committee on Speech (2025.4-)
         - IPSJ SIG-SLP (2025.4-)
         - ASJ-SP (2025.4-)
-    - title: Organization
+        - IEICE Technical Committee on Speech (2025.6-)
+    - title: Organizer
       items:
         - <a href="https://sites.google.com/view/hscmachime2026">The Joint Workshop on HSCMA and CHiME 2026</a> (a satellite workshop of ICASSP 2026)
-    - title: Review experience
+    - title: Meta Reviewer
+      items:
+        - ICASSP (2026) 
+    - title: Reviewer
       subcontents:
         - title: Journal
           items:
