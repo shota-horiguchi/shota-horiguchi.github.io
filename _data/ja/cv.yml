@@ -72,10 +72,18 @@
 - title: 表彰
   type: time_table
   contents:
+    - title: IEEE SPS Young Author Best Paper Award
+      year: 2025
+      items:
+        - TASLPに採録された主著論文「Encoder-Decoder Based Attractors for End-to-End Neural Diarization」に対して
+    - title: IEEE SPS Japan Young Author Best Paper Award
+      year: 2025
+      items:
+        - TASLPに採録された主著論文「Online Neural Diarization of Unlimited Numbers of Speakers Using Global and Local Attractors」に対して
     - title: <a href="https://2024.ieeeslt.org/">IEEE SLT 2024</a> Honorable Mention Award
       year: 2024
       items:
-        - 主著論文「Recursive Attentive Pooling for Extracting Speaker Embeddings from Multi-Speaker Recordings」に対して
+        - SLT2024で発表した主著論文「Recursive Attentive Pooling for Extracting Speaker Embeddings from Multi-Speaker Recordings」に対して
         - <a href="../assets/pdf/IEEE_SLT_2024_Honorable_Mention_Award.pdf">賞状</a>
     - title: <a href="https://www.chimechallenge.org/challenges/chime8/task1/index">The 8th CHiME Speech Separation and Recognition Challenge (CHiME-8) Task 1</a> 2位
       year: 2024
@@ -161,7 +169,7 @@
           - 日本音響学会誌 (2024)
         - title: 国際会議
           items:
-          - ICASSP (2019-2025)
+          - ICASSP (2019-2026)
           - INTERSPEECH (2024-2025)
           - ASRU (2023, 2025)
           - SLT (2022, 2024)

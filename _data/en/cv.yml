@@ -72,10 +72,18 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - title: IEEE SPS Young Author Best Paper Award
+      year: 2025
+      items:
+        - For the paper entitled "Encoder-Decoder Based Attractors for End-to-End Neural Diarization" published at TASLP.
+    - title: IEEE SPS Japan Young Author Best Paper Award
+      year: 2025
+      items:
+        - For the paper entitled "Online Neural Diarization of Unlimited Numbers of Speakers Using Global and Local Attractors" published at TASLP.
     - title: Honorable Mention Award at <a href="https://2024.ieeeslt.org/">IEEE Spoken Language Technology Workshop (SLT) 2024</a>
       year: 2024
       items:
-        - For the paper entitled "Recursive Attentive Pooling for Extracting Speaker Embeddings from Multi-Speaker Recordings"
+        - For the paper entitled "Recursive Attentive Pooling for Extracting Speaker Embeddings from Multi-Speaker Recordings" presented at SLT 2024.
         - <a href="../assets/pdf/IEEE_SLT_2024_Honorable_Mention_Award.pdf">Award certificate</a>
     - title: 2nd prize in <a href="https://www.chimechallenge.org/challenges/chime8/task1/index">The 8th CHiME Speech Separation and Recognition Challenge (CHiME-8) Task 1</a>
       year: 2024
@@ -147,7 +155,7 @@
       subcontents:
         - title: Journal
           items:
-          - IEEE/ACM Transactions on Audio, Speech, and Language Processing (2021-2025)
+          - IEEE/ACM Transactions on Audio, Speech, and Language Processing (2021-2026)
           - IEEE Transactions on Multimedia (2020-2021)
           - IEEE Transactions on Neural Networks and Learning Systems (2021)
           - IEEE Transactions on Pattern Recognition and Machine Intelligence (2020)
@@ -161,7 +169,7 @@
           - THE JOURNAL OF THE ACOUSTICAL SOCIETY OF JAPAN (2024)
         - title: Conference
           items:
-          - ICASSP (2019-2025)
+          - ICASSP (2019-2026)
           - INTERSPEECH (2024-2025)
           - ASRU (2023, 2025)
           - SLT (2022, 2024)
