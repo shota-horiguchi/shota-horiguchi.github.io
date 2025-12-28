@@ -1,3 +1,27 @@
+@inproceedings{horiguchi2026fukusuu,
+    title={Can Multi-Speaker ASR Corpora be Repurposed for Training Diarization Models?},
+    author={Horiguchi, Shota and Tawara, Naohiro and Ashihara, Takanori and Ando, Atsushi and Delcroix, Marc},
+    booktitle={The 2026 Spring Meeting of the Acoustical Society of Japan},
+    year={2026},
+    month={mar},
+    date={19},
+    abbr={ASJ},
+    location={Tokyo}
+}
+@inproceedings{ashihara2025risan,
+    title={Noise Robust Speech Recognition Using Discrete Speech Tokens Through Frontend Speech Enhancement},
+    author={Ashihara, Takanori and Horiguchi, Shota and Matsuura, Kohei and Ochiai, Tsubasa and Delcroix, Mark},
+    booktitle={IPSJ Special Interest Group on Spoken Language Processing (IPSJ-SLP)},
+    year={2025},
+    month={dec},
+    date={17},
+    number={32},
+    pages={1--7},
+    abbr={IPSJ-SLP},
+    location={Kyoto},
+    abstract={Discretized representations of speech signals are efficient alternatives to continuous features for various speech applications, including automatic speech recognition (ASR) and speech language models. However, these representations, such as semantic or phonetic tokens derived from clustering outputs of self-supervised learning (SSL) speech models, are susceptible to environmental noise, which can degrade backend task performance. In this work, we introduce a frontend system that estimates clean speech tokens from noisy speech and evaluate it on an ASR backend using semantic tokens. We consider four types of enhancement models based on their input/output domains: wave-to-wave, token-to-token, continuous SSL features-to-token, and wave-to-token. These models are trained independently of ASR backends. Experiments on the CHiME-4 dataset demonstrate that wave-to-token enhancement achieves the best performance among the frontends. Moreover, it mostly outperforms the ASR system based on continuous SSL features.},
+    html={https://ipsj.ixsq.nii.ac.jp/records/2006120}
+}
 @inproceedings{horiguchi2025mokuteki,
     title={Reducing Bias from Non-Target Speakers in Guided Speaker Embedding},
     author={Horiguchi, Shota and Ashihara, Takanori and Delcroix, Marc and Ando, Atsushi and Tawara, Naohiro},
@@ -91,13 +115,14 @@
     abstract={Target-speaker (TS) speech processing tasks, including TS automatic speech recognition (TS-ASR), target speech extraction (TSE), and personal voice activity detection (p-VAD), extract desired speaker information in multi-speaker scenarios. While prior work emphasizes task-specific training schemes or architectures, the embedding network for TS cues remains underexplored across tasks. This study investigates the optimal speaker embedding for TS tasks by comparing pre-trained speaker encoders (self-supervised or speaker recognition models) with one-hot ideal embeddings derived from speaker identity. Additionally, embeddings are subsequently optimized using gradient-based approaches. Our analysis reveals that speaker verification performance is somewhat unrelated to TS task performances, the one-hot vector outperforms enrollment-based ones, and the optimal embedding depends on the input mixture.},
     html={https://ken.ieice.org/ken/paper/20250304HciL/eng/}
 }
-@inproceedings{ando2025mokuteki,
+@inproceedings{ando2025onsei,
     title={Speaking Style Captioning Using Speech Factor Conditioning},
     booktitle={IPSJ Special Interest Group on Spoken Language Processing (IPSJ-SLP)},
     author={Ando, Atsushi and Moriya, Takafumi and Horiguchi, Shota and Masumura, Ryo},
     year={2025},
     month=mar,
     date={4},
+    number={79},
     pages={1--7},
     abbr={IPSJ-SLP},
     location={Okinawa},

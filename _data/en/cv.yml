@@ -72,18 +72,18 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - title: IEEE SPS Young Author Best Paper Award
+    - title: <a href="https://signalprocessingsociety.org/community-involvement/award-recipients">IEEE SPS Young Author Best Paper Award</a>
       year: 2025
       items:
-        - For the paper entitled "Encoder-Decoder Based Attractors for End-to-End Neural Diarization" published at TASLP.
-    - title: IEEE SPS Japan Young Author Best Paper Award
+        - For the paper entitled "<a href="https://ieeexplore.ieee.org/document/9741374">Encoder-Decoder Based Attractors for End-to-End Neural Diarization</a>" published at TASLP.
+    - title: <a href="https://www.ieee-jp.org/section/tokyo/chapter/SP-01/sp.htm">IEEE SPS Japan Young Author Best Paper Award</a>
       year: 2025
       items:
-        - For the paper entitled "Online Neural Diarization of Unlimited Numbers of Speakers Using Global and Local Attractors" published at TASLP.
+        - For the paper entitled "<a href="https://ieeexplore.ieee.org/document/10003998">Online Neural Diarization of Unlimited Numbers of Speakers Using Global and Local Attractors</a>" published at TASLP.
     - title: Honorable Mention Award at <a href="https://2024.ieeeslt.org/">IEEE Spoken Language Technology Workshop (SLT) 2024</a>
       year: 2024
       items:
-        - For the paper entitled "Recursive Attentive Pooling for Extracting Speaker Embeddings from Multi-Speaker Recordings" presented at SLT 2024.
+        - For the paper entitled "<a href="https://ieeexplore.ieee.org/document/10832241">Recursive Attentive Pooling for Extracting Speaker Embeddings from Multi-Speaker Recordings</a>" presented at SLT 2024.
         - <a href="../assets/pdf/IEEE_SLT_2024_Honorable_Mention_Award.pdf">Award certificate</a>
     - title: 2nd prize in <a href="https://www.chimechallenge.org/challenges/chime8/task1/index">The 8th CHiME Speech Separation and Recognition Challenge (CHiME-8) Task 1</a>
       year: 2024
