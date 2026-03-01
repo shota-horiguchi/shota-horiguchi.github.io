@@ -135,10 +135,10 @@
 - title: Academic Services
   type: double_nested_list
   contents:
-    - title: Session chair / vice chair
+    - title: Session chair
       items: 
-        - IEEE ICASSP (2022, 2025)
-        - ISCA Interspeech (2025)
+        - ICASSP (2022, 2025)
+        - Interspeech (2025)
         - ASJ Annual Meeting (2024-)
     - title: Board member
       items:

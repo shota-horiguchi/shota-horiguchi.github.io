@@ -135,10 +135,10 @@
 - title: 学術貢献活動
   type: double_nested_list
   contents:
-    - title: 座長・副座長
+    - title: 座長
       items: 
-        - IEEE ICASSP (2022, 2025)
-        - ISCA Interspeech (2025)
+        - ICASSP (2022, 2025)
+        - Interspeech (2025)
         - 日本音響学会 研究発表会 (2024秋, 2025春)
     - title: 学会委員
       items:
