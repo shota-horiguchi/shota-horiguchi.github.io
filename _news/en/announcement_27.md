@@ -5,4 +5,4 @@ inline: true
 lang: en
 ---
 
-One first-authored paper has been accepted to the Long Paper Track of Interspeech 2026.
+<a href="http://arxiv.org/abs/2606.11795">One first-authored paper</a> has been accepted to the Long Paper Track of Interspeech 2026.

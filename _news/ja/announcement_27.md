@@ -5,4 +5,4 @@ inline: true
 lang: ja
 ---
 
-主著がInterspeech 2026のLong Paper Trackに採択されました。
+<a href="http://arxiv.org/abs/2606.11795">主著</a>がInterspeech 2026のLong Paper Trackに採択されました。
