@@ -129,7 +129,7 @@
 - title: Membership
   type: list
   contents:
-  - Institute of Electrical and Electronics Engineers (IEEE)
+  - Institute of Electrical and Electronics Engineers (IEEE), Senior Member
   - IEEE Signal Processing Society (SPS)
   - "Acoustical Society of Japan (ASJ): No. 22704"
   - Information Processing Society of Japan (IPSJ)
@@ -168,6 +168,7 @@
           - Speech Communication (2022-2024)
           - EURASIP Journal on Audio, Speech and Music Processing (2023)
           - Neural Networks (2022)
+          - Acoustical Science and Technology (2026)
           - THE JOURNAL OF THE ACOUSTICAL SOCIETY OF JAPAN (2024)
         - title: Conference
           items:
