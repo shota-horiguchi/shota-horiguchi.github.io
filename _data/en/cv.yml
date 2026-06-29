@@ -72,6 +72,10 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - title: <a href="https://acoustics.jp/awards/awaya/">Awaya Prize Young Researcher Award, The Acoustical Society of Japan</a>
+      year: 2026
+      items:
+        - For the presentation entitled "Can Multi-Speaker ASR Corpora be Repurposed for Training Diarization Models?" at the 2026 Spring Meeting of the Acoustical Society of Japan.
     - title: <a href="https://signalprocessingsociety.org/community-involvement/award-recipients">IEEE SPS Young Author Best Paper Award</a>
       year: 2025
       items:

@@ -72,6 +72,10 @@
 - title: 表彰
   type: time_table
   contents:
+    - title: <a href="https://acoustics.jp/awards/awaya/">日本音響学会 粟屋潔学術奨励賞</a>
+      year: 2026
+      items:
+        - 日本音響学会 第155回(2026年春季)研究発表会で発表した「複数話者音声認識コーパスはダイアライゼーションモデル学習に転用できるか？」に対して
     - title: <a href="https://signalprocessingsociety.org/community-involvement/award-recipients">IEEE SPS Young Author Best Paper Award</a>
       year: 2025
       items:
