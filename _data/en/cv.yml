@@ -116,7 +116,8 @@
     - title: <a href="https://docs.google.com/spreadsheets/d/1Ze0xvzf6k0cIzejshiHATuBQaQA7fEZIxNBiIeKTjdk/pubhtml?gid=0&single=true">Outstanding Research Presentation Award, The Institute of Image Information and Television Engineers</a>
       year: 2017
       items: 
-        - For the presentation in PRMU, Feb, 2017
+        - For the presentation in PRMU, Feb, 2017, entitled "A Comparative Evaluation of Deep Features---Classifier-Based Learning vs. Distance Metric Learning"
+        - <a href="../../assets/pdf/ITE_Outstanding_Research_Presentation_Award.pdf">Award certificate</a>
 
 - title: Invited Talks
   type: time_table
@@ -146,6 +147,9 @@
         - IPSJ SIG-SLP (2025.4-)
         - ASJ-SP (2025.4-)
         - IEICE Technical Committee on Speech (2025.6-)
+    - title: Guest Editor
+      items:
+        - <a href="https://www.sciencedirect.com/special-issue/335435/speech-processing-with-wearable-and-multimodal-technologies">Computer Speech & Language Special Issue on Speech Processing with Wearable and Multimodal Technologies</a> (2026-2027)
     - title: Organizer
       items:
         - <a href="https://sites.google.com/view/hscmachime2026">The Joint Workshop on HSCMA and CHiME 2026</a> (a satellite workshop of ICASSP 2026)
@@ -179,7 +183,7 @@
           - ICASSP (2019-2026)
           - INTERSPEECH (2024-2026)
           - ASRU (2023, 2025)
-          - SLT (2022, 2024)
+          - SLT (2022, 2024, 2026)
           - EUSIPCO (2021-2023)
           - WASPAA (2023, 2025)
           - DCASE (2020-2021, 2023-2025)

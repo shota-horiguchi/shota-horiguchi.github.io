@@ -116,7 +116,8 @@
     - title: <a href="https://docs.google.com/spreadsheets/d/1Ze0xvzf6k0cIzejshiHATuBQaQA7fEZIxNBiIeKTjdk/pubhtml?gid=0&single=true">映像情報メディア学会 優秀研究発表賞</a>
       year: 2017
       items: 
-        - 2017年2月のPRMU研究会での発表に対して
+        - 2017年2月のPRMU研究会での発表「深層特徴の比較評価深層特徴の比較評価 ～ 分類器学習 vs. 距離計量学習 ～」に対して
+        - <a href="../../assets/pdf/ITE_Outstanding_Research_Presentation_Award.pdf">賞状</a>
 
 - title: 招待講演
   type: time_table
@@ -146,6 +147,9 @@
         - 情報処理学会 音声言語情報処理研究会 幹事 (2025.4-)
         - 日本音響学会 音声研究会 幹事 (2025.4-)
         - 電子情報通信学会 音声研究専門委員会 幹事 (2025.6-)
+    - title: ゲストエディタ
+      items:
+        - <a href="https://www.sciencedirect.com/special-issue/335435/speech-processing-with-wearable-and-multimodal-technologies">Computer Speech & Language誌 Special Issue「Speech Processing with Wearable and Multimodal Technologies」</a> (2026-2027)
     - title: オーガナイザ
       items:
         - <a href="https://sites.google.com/view/hscmachime2026">The Joint Workshop on HSCMA and CHiME 2026</a> (ICASSP 2026併設ワークショップ)
@@ -179,7 +183,7 @@
           - ICASSP (2019-2026)
           - INTERSPEECH (2024-2026)
           - ASRU (2023, 2025)
-          - SLT (2022, 2024)
+          - SLT (2022, 2024, 2026)
           - EUSIPCO (2021-2023)
           - WASPAA (2023, 2025)
           - DCASE (2020-2021, 2023-2025)
