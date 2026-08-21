@@ -152,11 +152,12 @@
         - <a href="https://www.sciencedirect.com/special-issue/335435/speech-processing-with-wearable-and-multimodal-technologies">Computer Speech & Language誌 Special Issue「Speech Processing with Wearable and Multimodal Technologies」</a> (2026-2027)
     - title: オーガナイザ
       items:
-        - <a href="https://sites.google.com/view/hscmachime2026">The Joint Workshop on HSCMA and CHiME 2026</a> (ICASSP 2026併設ワークショップ)
+        - Satellite Workshop Chair, <a href="https://2027.ieeeasli.org/organizing-committee/">IEEE International Conference on Audio, Speech, and Language Intelligence (ASLI) 2027</a>
+        - Organizer, <a href="https://sites.google.com/view/hscmachime2026">The Joint Workshop on HSCMA and CHiME 2026</a> (ICASSP 2026併設ワークショップ)
     - title: 座長
       items: 
         - ICASSP (2022, 2025)
-        - Interspeech (2025)
+        - Interspeech (2025, 2026)
         - 日本音響学会 研究発表会 (2024-)
     - title: メタレビュアー
       items:
@@ -197,5 +198,6 @@
 - title: インターン生指導
   type: list
   contents:
+  - 入江由拓（東京大学大学院 情報理工学系研究科 M1，2026.8-2026.9）@NTT
   - 山下夏生（東京大学大学院 学際情報学府 M1，2021.8-2022.2）@日立製作所
   - 伊藤葵（法政大学 情報科学部 B3-4, 2022.11-2024.1）@日立製作所
