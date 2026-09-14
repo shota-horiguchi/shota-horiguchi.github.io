@@ -76,7 +76,7 @@
       year: 2026
       items:
         - 日本音響学会 第155回(2026年春季)研究発表会で発表した「複数話者音声認識コーパスはダイアライゼーションモデル学習に転用できるか？」に対して
-        - <a href="../assets/pdf/awaya.pdf">賞状</a>
+        - <a href="../../assets/pdf/awaya.pdf">賞状</a>
     - title: <a href="https://signalprocessingsociety.org/community-involvement/award-recipients">IEEE SPS Young Author Best Paper Award</a>
       year: 2025
       items:
@@ -102,7 +102,7 @@
       year: 2023
       items:
         - 「話者数未知下における発話重複を考慮した話者ダイアライゼーションに関する研究」に対して
-        - <a href="../assets/pdf/itakura.pdf">賞状</a>
+        - <a href="../../assets/pdf/itakura.pdf">賞状</a>
     - title: <a href="https://dihardchallenge.github.io/dihard3/">The Third DIHARD Speech Diarization Challenge (DIHARD III)</a> 2位
       year: 2021
       items:
