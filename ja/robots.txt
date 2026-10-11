@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://shota-horiguchi.github.io/sitemap.xml
