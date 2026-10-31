@@ -25,4 +25,4 @@ Prior to joining NTT, I was a Senior Researcher at [Hitachi, Ltd.](https://www.h
 
 I received my Ph.D. degree in 2023 from [University of Tsukuba](https://www.tsukuba.ac.jp/en/) under the supervision of [Prof. Takeshi Yamada](https://www.mmlab.cs.tsukuba.ac.jp/~takeshi/english/). At University of Tsukuba, I was a member of the [Multimedia Laboratory](https://www.mmlab.cs.tsukuba.ac.jp/english/).
 
-Before that, I studied computer vision at the Aizawa-Yamasaki Laboratory (now [Aizawa-Yamakata-Matsui Laboratory](http://www.hal.t.u-tokyo.ac.jp/lab/en/)) of [the University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html), where I received B.E. and M.E. degrees under the supervision of [Prof. Kiyoharu Aizawa](https://www.hal.t.u-tokyo.ac.jp/~aizawa/).
+Before that, I studied computer vision at the [Aizawa-Yamasaki Laboratory](https://www.hal.t.u-tokyo.ac.jp/#laboratories) of [the University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html), where I received B.E. and M.E. degrees under the supervision of [Prof. Kiyoharu Aizawa](https://sites.google.com/view/aizawa-kiyoharu).

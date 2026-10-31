@@ -25,4 +25,4 @@ lang: ja
 
 2023年に[筑波大学](https://www.tsukuba.ac.jp/)から博士号を授与されました。在学中は[マルチメディア研究室](https://www.mmlab.cs.tsukuba.ac.jp/)に所属し，[山田武志准教授](https://www.mmlab.cs.tsukuba.ac.jp/~takeshi/)の指導を受けていました。
 
-2017年3月までは[東京大学](https://www.u-tokyo.ac.jp/ja/index.html)の相澤・山﨑研究室（現・[相澤・山肩・松井研究室](http://www.hal.t.u-tokyo.ac.jp/lab/))にてコンピュータビジョンの研究を行っており，[相澤清晴教授](https://www.hal.t.u-tokyo.ac.jp/~aizawa/)の指導の下，学士号と修士号を取得しました。
+2017年3月までは[東京大学](https://www.u-tokyo.ac.jp/ja/index.html)の相澤・山﨑研究室(https://www.hal.t.u-tokyo.ac.jp/#laboratories)にてコンピュータビジョンの研究を行っており，[相澤清晴教授](https://sites.google.com/view/aizawa-kiyoharu)の指導の下，学士号と修士号を取得しました。
